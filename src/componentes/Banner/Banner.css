@@ -1,6 +1,8 @@
 .banner{
-    background-color: #6278F7;
+    background-color: #E8DCCB;
     text-align: center;
+    height: 100vh;
+    margin: 0;
 }
 
 .banner img{

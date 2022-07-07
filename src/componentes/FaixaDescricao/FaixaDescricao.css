@@ -1,0 +1,18 @@
+.faixaDescricao{
+    background-color: #E8DCCB;
+    padding: 10px 350px;
+    
+}
+
+.faixaDescricao h2{
+    color: #FF7B53;
+    font-size: 32px;
+}
+
+.faixaDescricao p{
+    text-align: left;
+    font-size: 25px;
+    color: #612412;
+    font-weight: 500;
+}
+
