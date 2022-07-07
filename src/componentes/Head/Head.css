@@ -6,3 +6,11 @@ header{
     height: 100px;
 }
 
+@media screen and (max-width: 780px){
+    header{
+        text-align: center;
+    }
+    .cabecalho-logo img{
+        
+    }
+}
